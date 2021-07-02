@@ -1,0 +1,5 @@
+{
+  "prettier.semi": false,
+  "javascript.validate.enable": false,
+  "standard.usePackageJson": true
+}
